@@ -1,2 +1,5 @@
-theme: jekyll-theme-minimal
-title: My homepage
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Filmy i seriale
+description: Krótki opis moich ulubionych filmów i seriali
