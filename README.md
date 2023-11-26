@@ -1,4 +1,3 @@
-# Katrinn05.github.io
 ## Moje ulubione filmy
 1. "V for Vendetta": Film oparty na komiksie, który przedstawia historię tajemniczego bojownika wolności walczącego przeciw totalitarnemu rządowi. Znakomicie zrealizowany, poruszający i pełen symboliki.
 1. "Matrix": Klasyczny film science fiction, który zdobył uznanie dzięki innowacyjnym efektom specjalnym i fascynującej koncepcji wirtualnej rzeczywistości.
